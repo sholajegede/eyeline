@@ -1,0 +1,13 @@
+node_modules
+dist
+target
+.DS_Store
+*.log
+.env
+.env.*
+
+# Internal build files stay local
+BUILD_PLAN.md
+BUILD_LOG.md
+CLAUDE.md
+AGENTS.md
